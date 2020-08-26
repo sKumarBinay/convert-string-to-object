@@ -1,6 +1,6 @@
 {
   "name": "convert-string-to-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helps to reverse the action of stringify which is to convert an Object from string",
   "main": "index.js",
   "scripts": {
